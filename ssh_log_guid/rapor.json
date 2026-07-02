@@ -1,0 +1,8 @@
+{
+    "toplam_log_sayisi": 22,
+    "basarili_giris_sayisi": 8,
+    "basarisiz_giris_sayisi": 14,
+    "en_riskli_ip": "192.168.1.25",
+    "en_yuksek_basarisiz_deneme": 4,
+    "genel_risk_seviyesi": "Yuksek Risk"
+}
